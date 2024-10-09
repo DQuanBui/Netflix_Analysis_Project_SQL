@@ -17,7 +17,7 @@ The data for this project is sourced from the Kaggle dataset:
 - Explore, classify, and evaluate content based on targeted criteria and relevant keywords.
 
 ## Tools
-- Languages: MySQL
+- Languages: SQL
 - Tools: PostgreSQL
 
 # Schema
