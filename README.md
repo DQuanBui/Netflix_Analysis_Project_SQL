@@ -62,8 +62,8 @@ WITH RatingCount AS (
     FROM 
 		netflix
     GROUP BY 
-		type, 
-		rating
+	type, 
+	rating
 ),
 RankedRating AS (
     SELECT 
@@ -245,4 +245,4 @@ GROUP BY
 ```
 
 ## Conclusion
-- Our analysis shows that Netflix offers a wide variety of movies and TV shows, with different ratings and genres to appeal to a broad audience. By looking at the most common ratings, we can see what types of content are most popular and who they are aimed at. Geographically, countries like India contribute a significant amount of content, offering insights into regional trends. We also categorized content based on specific keywords, giving a clearer picture of the types of shows and movies Netflix provides. Overall, this analysis highlights how Netflix tailors its content to different audiences and regions.
+- This analysis shows that Netflix offers a wide variety of movies and TV shows, with different ratings and genres to appeal to a broad audience. By looking at the most common ratings, we can see what types of content are most popular and who they are aimed at. Geographically, countries like India contribute a significant amount of content, offering insights into regional trends. We also categorized content based on specific keywords, giving a clearer picture of the types of shows and movies Netflix provides. Overall, this analysis highlights how Netflix tailors its content to different audiences and regions.
