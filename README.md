@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Analysis Project
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png) 
+![](https://github.com/dbui10/Netflix_Analysis_Project/blob/main/logo.jpg)
 
 ## Project Overview
 This repository provides a thorough breakdown of the Movie and TV Shows Analysis project, covering its objectives, identified business challenges, proposed solutions, key findings, and conclusions. Using SQL, the project analyzes Netflix’s global library to uncover insights into content performance, genre preferences, and audience engagement. With data-driven solutions, the project seeks to address critical business questions, helping to optimize content strategy and improve user satisfaction on the platform.
