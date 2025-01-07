@@ -1,4 +1,5 @@
 -- Netflix Analysis Project
+-- Author: Dang Quan Bui
 
 DROP TABLE IF EXISTS netflix;
 
